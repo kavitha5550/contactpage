@@ -1,0 +1,131 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+body{
+    background-color: rgba(77, 255, 0, 0.354);
+    font-family: "Poppins", sans-serif;
+  /* font-weight: 500; */
+  font-size: 10px;
+  font-style: normal;
+}
+.container1{
+    position: relative;
+    top:50px;
+    left:30%;
+    width:400px;
+    height:480px;
+    background-color:white;
+
+    }
+   .Contactus{
+    position: relative;
+    top:3px;
+    left:20px;
+    gap:10px;
+    /* background-color: black; */
+    font-size: 20px;
+padding:7px;
+    width:100px;
+    height: 25px;
+   }
+    .form-label{
+        /* background-color: aqua; */
+        display: flex;
+        flex-direction: row;
+        padding:10px;
+        gap:10px;
+        margin-top:10px;
+        width:fit-content;
+        height:4px;
+    }
+    .star{
+        color:green;
+        size:20px;
+    }
+     .lastname{
+        padding:2px;
+        margin-left: 100px;
+     } .inputname{
+        padding:7px;
+        display: flex;
+        flex-direction: row;
+        gap:20px;
+        
+     }
+     .two-input{
+        padding:5px;
+     }
+     .label-gamil{
+        padding:7px;
+     }
+     .input-gmail{
+        padding:7px;
+        /* width:80%; */
+        /* background-color: brown; */
+     }
+     .gmail{
+        padding:7px;
+        width:85%;
+     }.Querytype{
+        padding:7px;
+     }
+     .content-box{
+        padding:7px;
+        display: flex;
+        flex-direction: row;
+        gap:20px;
+     }
+     .text-box{
+   text-align: center;
+   font-family: "Poppins", sans-serif;
+   font-size: 10px;
+   font-style: normal;
+     }
+
+     .content-box div{
+        border: 1px solid #111;
+        display: flex;
+        align-items: center;
+        gap: 0 10px;
+        padding: 7px;
+        border-radius: 4px;
+
+     }
+     .content-box div input{
+        border: none;
+        outline: none;
+     }
+     .Message{
+        padding:7px;
+     }
+     .textarea{
+        padding:7px;
+     }
+     .checkbox{
+        padding:7px;
+        position: relative;
+        top:10px;
+        display: flex;
+        align-items: center;
+        gap: 0 5px;
+     }
+     .write{
+        /* transform: translate(-10 -10); */
+     }
+     .submit1{
+        padding:10px;
+     }
+     .submit{
+        width:90%;
+        height: 30px;
+        background-color: green;
+        border: none;
+        color:white;
+        text-align: center;
+        font-family: "Poppins", sans-serif;
+        font-size: 10px;
+        font-style: normal;
+     }
+    
+    
